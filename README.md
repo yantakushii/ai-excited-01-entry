@@ -1,0 +1,1 @@
+A procedurally drawn 768x768 deep-space supernova: a white-hot core off-centre in the frame, neon spiral streaks of colour, and a crescent of jagged lightning arcs. Written in Node 22 with only the standard library, including a hand-rolled PNG encoder (IHDR/IDAT/IEND plus its own CRC32), so every run produces byte-identical output.
